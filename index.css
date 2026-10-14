@@ -26,6 +26,26 @@ body{
 
 }
 
+#lugarFechas{
+
+    color:black
+
+}
+
+#lugarFechas img{
+
+    max-width: 100%;
+
+
+}
+
+#lugarFechas p{
+
+    color: black;
+    
+
+}
+
 #footer{
 
     background-color: #4F087F;
